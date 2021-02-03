@@ -1,0 +1,15 @@
+---
+title: "Regresion Metadata"
+output: github_document
+params:
+  P1: []
+  P2: [Agrega respuesta]
+  P3: [Agrega respuesta]
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+

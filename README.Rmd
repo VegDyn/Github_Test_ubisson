@@ -1,0 +1,12 @@
+---
+title: "Reproducibility in github"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##  Git as a metadata creator
+
+In this small document, we will generate a small analysis
